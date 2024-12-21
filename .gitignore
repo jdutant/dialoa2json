@@ -1,0 +1,8 @@
+# editor
+.vscode
+
+# local tests
+/local/
+
+# MacOS
+**/*.DS_Store
